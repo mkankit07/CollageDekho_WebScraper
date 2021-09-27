@@ -1,0 +1,246 @@
+[
+    {
+        "name": "Indian Institute of Technology (IIT KGP), Kharagpur",
+        "type": "Public",
+        "address": " Kharagpur (West Bengal)",
+        "content": "+91-3222-282101",
+        "email": "     chairjee@adm.iitkgp.ernet.in",
+        "Facilities": "Facilities Academic Zone  A/C  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Convo. Hall  Fest  Cultural zone  Education Festival  Planning lab  Free Laptop  Girls Hostel  Gym  Gymkhana  Hospital  Mess  International Center  Theatre  Library  Medical Facilities  Cls. Room  Music  Placement  Sports  Grounds  post off.  R&D  Residential Institute  Swimming Pool  Trans.  WiFi  Cafeteria   Laboratories  Hostel View All Facilities",
+        "Rating": 4.5
+    },
+    {
+        "name": "Indian Institute of Technology Delhi - (IIT Delhi)",
+        "type": "Public",
+        "address": " Delhi (Delhi)",
+        "content": "+91-11-26597135",
+        "email": "     webmaster@admin.iitd.ac.in",
+        "Facilities": "Facilities Math Lab  ATM  Boys Hostel  Canteen  Computer Lab  Counselling  Fest  Cultural zone  Girls Hostel  Guest house  Gym  Mess  Theatre  Library  Medical Facilities  Cls. Room  Music  Placement  Sports  Grounds  R&D  Residential Institute  Swimming Pool  Trans.  WiFi  TT Room  Intercom  Hostel View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Madras (IIT Madras), Chennai",
+        "type": "Public",
+        "address": " Chennai (Tamil Nadu)",
+        "content": "+91-44-22578035",
+        "email": "     drcourses@iitm.ac.in",
+        "Facilities": "Facilities Academic Zone  ATM  Boys Hostel  Canteen  Computer Lab  Girls Hostel  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  post off.  R&D  Residential Institute  Residential Zone  Residential Faculty Zone  Shopping  Trans.  WiFi  Laundry View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+        "type": "Public",
+        "address": " Kanpur (Uttar Pradesh)",
+        "content": "+91-512-2597288 , ",
+        "email": "     registrar@iitk.ac.in",
+        "Facilities": "Facilities Math Lab  Academic Zone  A/C  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  CSC  Convo. Hall  Counselling  Fest  Cultural zone  Digi sign  Education Festival  Planning lab  Free Laptop  Girls Hostel  Guest house  Gym  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Shopping  Club  Swimming Pool  Trans.  Workshops  Bed  Table  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "IIT Roorkee: Indian Institute of Technology Roorkee",
+        "type": "Government",
+        "address": " Roorkee (Uttarakhand)",
+        "content": "+91-1332-285200",
+        "email": "     aracd@iitr.ac.in",
+        "Facilities": "Facilities Math Lab  Academic Zone  A/C  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  CSC  Convo. Hall  Counselling  Fest  Cultural zone  Education Festival  Guest house  Gym  Hospital  Mess  International Center  Theatre  Library  Medical Facilities  Cls. Room  Placement  Sports  Grounds  post off.  Practical Labs  R&D  Residential Institute  Residential Zone  Residential Faculty Zone  Club  Trans.  video Call  WiFi  Cafeteria   Laboratories  Hostel View All Facilities",
+        "Rating": 4.0
+    },
+    {
+        "name": "Indian Institute of Technology (IIT), Bombay / Mumbai",
+        "type": "Government",
+        "address": " Mumbai (Maharashtra)",
+        "content": "+91-22-25722545",
+        "email": "     nandk@chem.iitb.ac.in",
+        "Facilities": "Facilities Auditorium  Boys Hostel  Canteen  Computer Lab  Counselling  Fest  Cultural zone  Girls Hostel  Guest house  Gym  Hospital  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Grounds  WiFi  Table  Chair  Cafeteria   Laboratories  Hostel  E-Classroom View All Facilities"
+    },
+    {
+        "name": "IIT (BHU), Varanasi - Indian Institute of Technology (BHU) Varanasi",
+        "type": "Government",
+        "address": " Varanasi (Uttar Pradesh)",
+        "content": "+91 542 2368427 , ",
+        "email": "     director@iitbhu.ac.in",
+        "Facilities": "Facilities Academic Zone  A/C  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Counselling  Cultural zone  Guest house  Gym  Hospital  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Residential Institute  Residential Zone  Residential Faculty Zone  Workshops  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Birla Institute of Technology and Science (BITS), Pilani",
+        "type": "Private",
+        "address": " Pilani (Rajasthan)",
+        "content": "911596244089",
+        "email": "     admnoc@pilani.bits-pilani.ac.in",
+        "Facilities": "Facilities Academic Zone  Auditorium  Boys Hostel  Canteen  Computer Lab  Girls Hostel  Gym  Library  Medical Facilities  Cls. Room  Placement  Sports  Residential Institute  Residential Zone  Residential Faculty Zone  Trans.  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Guwahati (IIT Guwahati)",
+        "type": "Government",
+        "address": " Guwahati (Assam)",
+        "content": "+91-361-2690761 ",
+        "email": "     pro@iitg.ernet.in",
+        "Facilities": "Facilities A/C  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Convo. Hall  Girls Hostel  Guest house  Gym  Gymkhana  Hospital  Library  Medical Facilities  Cls. Room  Sports  post off.  Residential Faculty Zone  Shopping  Swimming Pool  Conference Room  Railway Concession  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "National Institute of Technology (NIT), Tiruchirappalli (Trichy)",
+        "type": "Government",
+        "address": " Tiruchirappalli (Tamil Nadu)",
+        "content": "+91-431-2503000 , ",
+        "email": "     deanap@nitt.edu",
+        "Facilities": "Facilities Auditorium  ATM  Canteen  Computer Lab  Gymkhana  Library  Medical Facilities  Cls. Room  Sports  Trans. View All Facilities"
+    },
+    {
+        "name": "  Indian School of Mines (IITISM), Dhanbad ",
+        "type": "Government",
+        "address": " Dhanbad (Jharkhand)",
+        "content": " +91-326- 2235001-2235004",
+        "email": "     dt@ismdhanbad.ac.in",
+        "Facilities": "Facilities Math Lab  Academic Zone  A/C  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  CSC  Convo. Hall  Counselling  Fest  Cultural zone  Education Festival  Planning lab  Hospital  Library  R&D  Bed View All Facilities"
+    },
+    {
+        "name": "National Institute of Technology (NIT), Mangalore",
+        "type": "Public",
+        "address": " Mangalore (Karnataka)",
+        "content": "+91824-2474000",
+        "email": "     webteam@nitk.ac.in",
+        "Facilities": "Facilities Academic Zone  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Girls Hostel  Guest house  Hospital  Mess  Theatre  Library  Medical Facilities  Cls. Room  Placement  Sports  post off.  Residential Institute  Residential Zone  Residential Faculty Zone  Shopping  Swimming Pool  Trans.  Bed  Ambulance View All Facilities"
+    },
+    {
+        "name": "  Vels Institute of Science, Technology & Advanced Studies (VELS University), Chennai ",
+        "type": "Private",
+        "address": " Chennai (Tamil Nadu)",
+        "content": "+ 91 - 44 - 2266 2500 / 2501 / 2502 / 2503",
+        "email": "      vistas@velsuniv.ac.in",
+        "Facilities": "Facilities ATM  Boys Hostel  Canteen  Computer Lab  Convo. Hall  Girls Hostel  Gym  Mess  Library  Medical Facilities  Cls. Room  Sports  Swimming Pool  Trans.  WiFi  Seminar Hall  Table  Chair  Laundry  Volleyball Ground  Cafeteria   Laboratories  Hostel  Scholarship View All Facilities"
+    },
+    {
+        "name": "  PEC University of Technology (PEC CHANDIGARH), Chandigarh ",
+        "type": "Private",
+        "address": " Chandigarh (Chandigarh)",
+        "content": "01722746074",
+        "email": "     admissionug@pec.ac.in",
+        "Facilities": "Facilities Boys Hostel  Canteen  Computer Lab  Fest  Girls Hostel  Library  Medical Facilities  Cls. Room  Placement  Sports View All Facilities"
+    },
+    {
+        "name": "  P.S.G. College of Technology (P.S.G CT), Coimbatore ",
+        "type": "Private",
+        "address": " Coimbatore (Tamil Nadu)",
+        "content": "+91-422-2572177",
+        "email": "     principal@psgtech.ac.in",
+        "Facilities": "Facilities Math Lab  Auditorium  Boys Hostel  Canteen  Computer Lab  Girls Hostel  Gym  Library  Medical Facilities  Cls. Room  Music  Placement  Sports  Grounds  WiFi  Seminar Hall  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "National Institute of Technology (NIT), Warangal",
+        "type": "Government",
+        "address": " Warangal (Telangana)",
+        "content": "+91-870-2462029",
+        "email": "     nitwadm@gmail.com",
+        "Facilities": "Facilities Academic Zone  Auditorium  ATM  Canteen  Computer Lab  Cultural zone  Girls Hostel  Gym  Gymkhana  Hospital  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Shopping  Trans.  Cafeteria   Laboratories  Hostel View All Facilities",
+        "Rating": 4.9
+    },
+    {
+        "name": "  Netaji Subhas Institute of Technology (NSIT), New Delhi ",
+        "type": "Private",
+        "address": " New Delhi (Delhi)",
+        "content": "+91-1125099020 (Administration)",
+        "email": "     nsitadmissions@gmail.com",
+        "Facilities": "Facilities Academic Zone  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Cultural zone  Girls Hostel  Gym  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  post off.  Residential Institute  Residential Zone  Residential Faculty Zone  Shopping  Bed  Table  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "BITS Goa - BITS Pilani, K K Birla Goa Campus",
+        "type": "Private",
+        "address": " Goa (Goa)",
+        "content": "+91-832-2580208 , ",
+        "email": "     webmaster@bits-goa.ac.in",
+        "Facilities": "Facilities ATM  Boys Hostel  Computer Lab  Girls Hostel  Library  Medical Facilities  Sports  Laboratories View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Jodhpur (IIT Jodhpur)",
+        "type": "Government",
+        "address": " Jodhpur (Rajasthan)",
+        "content": "+91-291-2449002",
+        "email": "     office_academics@iitj.ac.in",
+        "Facilities": "Facilities Math Lab  Academic Zone  A/C  Auditorium  ATM  Canteen  Computer Lab  Cultural zone  Planning lab  Girls Hostel  Guest house  Gym  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Grounds  Residential Institute  Residential Zone  Residential Faculty Zone  Shopping  Trans.  WiFi  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Visvesvaraya National Institute of Technology - (VNIT), Nagpur",
+        "type": "Government",
+        "address": " Nagpur (Maharashtra)",
+        "content": "+91-712-2222828 , ",
+        "email": "     dr_acd@vnit.ac.in",
+        "Facilities": "Facilities Math Lab  Auditorium  ATM  Boys Hostel  Computer Lab  Girls Hostel  Gym  Library  Medical Facilities  Cls. Room  Placement  Sports  Cafeteria   Laboratories  Hostel View All Facilities",
+        "Rating": 5.0
+    },
+    {
+        "name": "Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar)",
+        "type": "Government",
+        "address": " Bhubaneswar (Odisha)",
+        "content": "91-674-2576019",
+        "email": "     ar.acad@iitbbs.ac.in",
+        "Facilities": "Facilities A/C  Auditorium  Boys Hostel  Canteen  Computer Lab  Counselling  Fest  Cultural zone  Gym  Mess  Library  Medical Facilities  Cls. Room  Sports  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Patna (IIT Patna)",
+        "type": "Government",
+        "address": " Patna (Bihar)",
+        "content": "+91-0612-3028103",
+        "email": "     iitpatnaoff@iitp.ac.in",
+        "Facilities": "Facilities Academic Zone  Auditorium  Boys Hostel  Canteen  Computer Lab  Girls Hostel  Guest house  Gym  Gymkhana  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Residential Institute  Residential Zone  Residential Faculty Zone  Trans.  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Gandhinagar (IIT Gandhinagar)",
+        "type": "Government",
+        "address": " Gandhinagar (Gujarat)",
+        "content": "+91-78782 51653 , ",
+        "email": "     academics@iitgn.ac.in",
+        "Facilities": "Facilities Math Lab  Academic Zone  A/C  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Convo. Hall  Counselling  Cultural zone  Digi sign  Education Festival  Gym  Mess  International Center  Theatre  Library  Medical Facilities  Cls. Room  Music  Placement  Sports  Grounds  Residential Faculty Zone  Shopping  Club  Trans.  WiFi  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Mandi (IIT Mandi)",
+        "type": "Government",
+        "address": " Mandi (Himachal Pradesh)",
+        "content": "91-1905-267015",
+        "email": "     pavinaas@iitmandi.ac.in",
+        "Facilities": "Facilities Math Lab  Academic Zone  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  CSC  Convo. Hall  Counselling  Cultural zone  Free Laptop  Girls Hostel  Gym  Hospital  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Grounds  video Call  WiFi  Workshops  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "IIT Indore: Indian Institute of Technology Indore",
+        "type": "Government",
+        "address": " Indore (Madhya Pradesh)",
+        "content": "91-731-2438733",
+        "email": "     dracademic@iiti.ac.in",
+        "Facilities": "Facilities Academic Zone  A/C  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Convo. Hall  Counselling  Fest  Cultural zone  Education Festival  Girls Hostel  Gym  Hospital  Mess  Theatre  Library  Medical Facilities  Cls. Room  Placement  Sports  Residential Faculty Zone  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "  COLLEGE OF ENGINEERING, PUNE (COE), Pune ",
+        "type": "Private",
+        "address": " Pune (Maharashtra)",
+        "content": "+91-20-25507000",
+        "email": "     director@coep.ac.in",
+        "Facilities": "Facilities Auditorium  Computer Lab  Convo. Hall  Counselling  Library  Medical Facilities  Cls. Room  Placement  Sports  Grounds  Trans.  WiFi  Seminar Hall  Power Backup  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Birla Institute of Technology (BIT) Mersa, Ranchi",
+        "type": "Private",
+        "address": " Ranchi (Jharkhand)",
+        "content": " 0651-2275402/2276502",
+        "email": "     pkbarahi@bitmesra.ac.in,registrar@bitmesra.ac.in",
+        "Facilities": "Facilities Academic Zone  A/C  AV Lab  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  CSC  Convo. Hall  Counselling  Fest  Guest house  Gym  Library  Medical Facilities  Cls. Room  Sports  Residential Institute  Residential Zone  Residential Faculty Zone  Trans.  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar (NIT Jalandhar)",
+        "type": "Government",
+        "address": " Jalandhar (Punjab)",
+        "content": " 01812690301",
+        "email": "     director@nitj.ac.in",
+        "Facilities": "Facilities Auditorium  Boys Hostel  Computer Lab  Girls Hostel  Gym  Library  Medical Facilities  Cls. Room  Sports  WiFi  Cafeteria   Laboratories View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Hyderabad (IIT Hyderabad)",
+        "type": "Private",
+        "address": " Hyderabad (Telangana)",
+        "content": "+91-40-23016102",
+        "email": "     dracad@iith.ac.in",
+        "Facilities": "Facilities A/C  Auditorium  ATM  Boys Hostel  Canteen  Computer Lab  Cultural zone  Gym  Mess  Library  Medical Facilities  Cls. Room  Placement  Sports  Grounds  R&D  Residential Institute  Residential Zone  Residential Faculty Zone  Trans.  video Call  WiFi  Cafeteria   Laboratories  Hostel View All Facilities"
+    },
+    {
+        "name": "Indian Institute of Technology Ropar (IIT Ropar)",
+        "type": "Government",
+        "address": " Ropar (Punjab)",
+        "content": "+91-1881-227078 , ",
+        "email": "     meoffice@iitrpr.ac.in",
+        "Facilities": "Facilities Math Lab  AV Lab  Auditorium  Boys Hostel  Canteen  Computer Lab  Counselling  Fest  Cultural zone  Guest house  Gym  Hospital  Mess  Library  Medical Facilities  Cls. Room  Music  Placement  Sports  Grounds  R&D  Residential Institute  Trans.  Badminton Court  Cafeteria   Laboratories  Hostel View All Facilities"
+    }
+]
